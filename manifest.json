@@ -1,0 +1,9 @@
+{
+  "id": "personal-knowledge-sync",
+  "name": "Personal Knowledge Sync",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Synchronisiert den Vault mit dem eigenen Knowledge Service. Kein GitHub-Token auf dem Gerät.",
+  "author": "Daniel Gambal",
+  "isDesktopOnly": false
+}
